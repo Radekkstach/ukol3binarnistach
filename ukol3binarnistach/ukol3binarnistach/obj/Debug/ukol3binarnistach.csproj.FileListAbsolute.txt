@@ -1,0 +1,11 @@
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\bin\Debug\ukol3binarnistach.exe.config
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\bin\Debug\ukol3binarnistach.exe
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\bin\Debug\ukol3binarnistach.pdb
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\obj\Debug\ukol3binarnistach.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\obj\Debug\ukol3binarnistach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\obj\Debug\ukol3binarnistach.Form1.resources
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\obj\Debug\ukol3binarnistach.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\obj\Debug\ukol3binarnistach.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\obj\Debug\ukol3binarnistach.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\obj\Debug\ukol3binarnistach.exe
+C:\Users\Uživatel\Desktop\programko\ukol3binarnistach\ukol3binarnistach\obj\Debug\ukol3binarnistach.pdb
